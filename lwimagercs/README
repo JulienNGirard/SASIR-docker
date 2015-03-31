@@ -1,6 +1,7 @@
 This is a docker image:
 
-* Based on gijzelaerr/papino
-* Builds meqtrees and related software from source
-
+* Based on radioastro/base
+* Supplementary packages in debian_packages
+* Build CEA SASIR Compressed Sensing libraries (from github github.com/JulienNGirard/SASIR-library)
+* Builds LWimager (from github.com/JulienNGirard/LWimager-SASIR)
 
