@@ -1,4 +1,4 @@
-DOCKER_REPO=JulienNGirard/lwimagercs
+DOCKER_REPO=sasir/lwimagercs
 
 .PHONY: docker-image clean
 
